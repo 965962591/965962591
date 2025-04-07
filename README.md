@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=965962591)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=965962591)
+
 -->
+
+
